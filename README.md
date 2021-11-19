@@ -1,4 +1,4 @@
-## Olá meu nome é Déborah Bussolo, estou descobrindo esse novo Mundo!
+## **Olá** meu nome é Déborah Bussolo, estou descobrindo esse novo **Mundo**!
 <div align="center">
   <a href="https://github.com/deborahbussolo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborahbussolo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
