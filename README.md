@@ -1,6 +1,6 @@
 ## **Olá** meu nome é Déborah Bussolo, estou descobrindo esse novo **Mundo**!
 <div align="center">
-  <a href="https://github.com/deborahbussolo">
+  <a href="https://deborahbussolo.com/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborahbussolo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahbussolo&layout=compact&langs_count=7&theme=gotham"/>
 </div>
