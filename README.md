@@ -1,5 +1,5 @@
 ## **Olá** meu nome é Déborah Bussolo, estou descobrindo esse novo **Mundo**!
-atualmente sou graduando no curso de Ciência da Computação na UFSC.
+Formada Técnica em Comunicação Visual, no Instituro Federal de Santa Catarina e atualmente estou graduando Ciência da Computação, na Universidade Federal de Santa Catarina.
 <div align="center">
   <a href="https://deborahbussolo.com/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborahbussolo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
