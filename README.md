@@ -14,7 +14,7 @@
   <img align="center" alt="Déborah-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 
-  <img align="right" alt="Déborah-gif" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/845386880110690364/911358548464795708/2b1313bce41d7e6e101f54c223e494ce.gif">
+  <img align="right" alt="Déborah-gif" height="200" width="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/845386880110690364/911358548464795708/2b1313bce41d7e6e101f54c223e494ce.gif">
 </div>
   
   ##
