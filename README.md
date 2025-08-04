@@ -1,6 +1,6 @@
 ## **Olá** meu nome é Déborah Bussolo, estou descobrindo esse novo **Mundo**!
 🎓 -> Formada Técnica em Comunicação Visual, no Instituro Federal de Santa Catarina.<br>
-📚 -> Atualmente sou graduanda em Ciência da Computação, na Universidade Federal de Santa Catarina.<br>
+📚 -> Graduanda em Ciência da Computação pausada, na Universidade Federal de Santa Catarina.<br>
 💡 -> Minhas principal área de interesse é UX! 
 <div align="center">
   <a href="https://deborahbussolo.com/">
