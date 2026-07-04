@@ -1,7 +1,7 @@
-## **Olá** meu nome é Déborah Bussolo, estou descobrindo esse novo **Mundo**!
-🎓 -> Formada Técnica em Comunicação Visual, no Instituro Federal de Santa Catarina.<br>
-📚 -> Graduanda em Ciência da Computação pausada, na Universidade Federal de Santa Catarina.<br>
-💡 -> Minhas principal área de interesse é UX! 
+## Oi! Eu sou a Déborah.
+
+Sou designer e adoro organizar informações, criar documentações e pensar em experiências que façam sentido para as pessoas. Atualmente compartilho meus estudos, projetos e experimentos por aqui.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Déborah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Déborah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
